@@ -1,0 +1,24 @@
+{
+  "name": "mokkajs",
+  "version": "1.0.0",
+  "description": "Learn Node Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mkmms/mokkajs.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Server"
+  ],
+  "author": "Mohan kumar <mkmmslearn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mkmms/mokkajs/issues"
+  },
+  "homepage": "https://github.com/mkmms/mokkajs#readme"
+}
